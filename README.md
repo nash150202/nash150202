@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirul Nashriq</h1>
-<h3 align="center">A Final-Year IT Student | Web Developer | Multimedia Creator</h3>
+<h3 align="center">A Final-Year IT Student | Interest in Web Developer and Multimedia Creator</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
