@@ -12,7 +12,7 @@
 - 🎓 I’m a final-year student at **Universiti Sultan Zainal Abidin (UniSZA)**  
 - 🌱 Currently learning **Full-stack Development & Game Design**  
 - 💻 Passionate about **web development**, **game development**, and **multimedia design**  
-- 📝 I work with technologies like:
+- 📝 My portfolio link: 
   
 ---
 
